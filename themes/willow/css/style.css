@@ -3092,5 +3092,16 @@ padding:52px;
     }
     .hero-section .hero-buttons a {
     background: #000;
+    }
+    .header-navigation li.lang {
+    float: none;
+    list-style: none outside none;
+    text-align: left;
+    width: 7%;
+    }
 }
+@media (min-width: 768px){
+	.hero-section .hero-buttons a {
+    background: #000;
+    }
 }
