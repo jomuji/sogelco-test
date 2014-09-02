@@ -1,0 +1,66 @@
+@font-face {
+  font-family: "sogelco";
+  src:url("../fonts/sogelco.eot");
+  src:url("../fonts/sogelco.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/sogelco.woff") format("woff"),
+    url("../fonts/sogelco.ttf") format("truetype"),
+    url("../fonts/sogelco.svg#sogelco") format("svg");
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+[class^="icon-"]:before, [class*=" icon-"]:before {
+	font-family: 'sogelco';
+	font-style: normal;
+	speak: none;
+	font-weight: normal;
+	line-height: 1;
+	-webkit-font-smoothing: antialiased;
+}
+
+.icon-world:before {
+  content: "a";
+}
+.icon-anchor:before {
+  content: "b";
+}
+.icon-factory:before {
+  content: "e";
+}
+.icon-forks:before {
+  content: "f";
+}
+.icon-google-plus:before {
+  content: "g";
+}
+.icon-harbor:before {
+  content: "h";
+}
+.icon-homard:before {
+  content: "i";
+}
+.icon-map-factory:before {
+  content: "j";
+}
+.icon-light:before {
+  content: "k";
+}
+.icon-office:before {
+  content: "m";
+}
+.icon-map-office:before {
+  content: "n";
+}
+.icon-map-harbor:before {
+  content: "l";
+}
+.icon-thumbup:before {
+  content: "o";
+}
+.icon-eye:before {
+  content: "c";
+}
+.icon-facebook:before {
+  content: "p";
+}
